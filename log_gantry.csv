@@ -1,0 +1,17 @@
+# machine,CO2 / diode / 1064 gantry (LightBurn grayscale)
+# material (alloy / glass type+colour / stone),
+"# recipe: min power %, max power %, speed mm/s, line interval mm, scan direction, passes",
+
+pad,target_fraction,measured_depth_um_1,measured_depth_um_2,measured_depth_um_3,notes
+1,0.083,,,,
+2,0.167,,,,
+3,0.250,,,,
+4,0.333,,,,
+5,0.417,,,,
+6,0.500,,,,
+7,0.583,,,,
+8,0.667,,,,
+9,0.750,,,,
+10,0.833,,,,
+11,0.917,,,,
+12,1.000,,,,
