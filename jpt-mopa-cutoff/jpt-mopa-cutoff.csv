@@ -1,0 +1,340 @@
+series,model_code,rated_w,mode,pulse_ns,cutoff_khz,max_khz,manual_ref,note
+M7,YDFLP-60-M7-M-R,60,normal,2,1950,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,4,1350,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,6,975,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,9,600,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,13,412,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,20,225,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,30,187,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,45,150,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,60,135,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,80,112,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,100,105,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,150,57,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,200,45,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,250,42,900,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,350,40,600,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-60-M7-M-R,60,normal,500,30,500,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,2,2600,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,4,1800,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,6,1300,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,9,800,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,13,550,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,20,300,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,30,250,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,45,200,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,60,180,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,80,150,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,100,140,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,150,76,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,200,60,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,250,56,900,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,350,53,600,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-80-M7-M-R,80,normal,500,40,500,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,2,2960,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,4,2160,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,6,1400,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,9,960,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,13,680,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,20,420,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,30,300,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,45,250,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,60,200,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,80,180,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,100,160,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,150,95,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,200,75,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,250,70,900,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,350,67,600,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-100-M7-M-R,100,normal,500,67,500,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,2,3900,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,4,2700,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,6,1950,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,9,1200,4000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,13,825,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,20,500,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,30,300,3000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,45,240,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,60,216,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,80,210,2000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,100,190,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,150,115,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,200,90,1000,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,250,85,900,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,350,80,600,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-120-M7-M-R,120,normal,500,80,500,S-PI-0035 v1.0 Table 5,
+M7,YDFLP-200-M7-M-R,200,normal,2,4000,4000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,4,4000,4000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,6,4000,4000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,9,4000,4000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,13,2600,3000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,20,1700,3000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,30,1100,3000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,45,950,2000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,55,750,2000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,60,650,2000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,80,550,2000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,100,480,1000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,150,300,1000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,200,240,1000,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,250,210,900,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,350,150,600,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+M7,YDFLP-200-M7-M-R,200,normal,500,130,500,v1.1 2021 Table 5,2/4/6 ns: manual guarantees only >45/>75/>100 W at 4000 kHz
+E-M7,YDFLP-E-20-M7-S-R,20,normal,2,850,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,4,500,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,6,320,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,9,250,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,13,170,3000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,20,115,3000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,30,90,3000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,45,75,2000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,60,65,2000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,80,60,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,100,55,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,150,30,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,200,25,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,250,25,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,350,25,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-20-M7-S-R,20,normal,500,25,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,2,1300,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,4,750,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,6,480,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,9,375,4000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,13,250,3000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,20,170,3000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,30,135,3000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,45,110,2000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,60,100,2000,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,80,90,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,100,80,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,150,45,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,200,37,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,250,37,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,350,37,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-30-M7-S-R,30,normal,500,37,400,J-SI-0036 v1.4 Table 4,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,2,1950,4000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,4,1350,4000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,6,975,4000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,9,600,4000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,13,412,3000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,20,225,3000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,30,187,3000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,45,150,2000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,60,135,2000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,80,112,2000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,100,105,1000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,150,57,1000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,200,45,1000,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,250,42,900,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,350,40,600,v1.0 2021 Table 5,
+E-M7,YDFLP-E-60-M7-M-R,60,normal,500,30,500,v1.0 2021 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,2,2600,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,4,1800,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,6,1300,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,9,800,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,13,550,3000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,20,330,3000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,30,250,3000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,45,200,2000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,60,180,2000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,80,150,2000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,100,140,1000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,150,76,1000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,200,60,1000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,250,56,900,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,350,53,600,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-80-M7-M-R,80,normal,500,53,500,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,2,2960,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,4,2160,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,6,1400,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,9,960,4000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,13,680,3000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,20,420,3000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,30,300,3000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,45,250,2000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,60,200,2000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,80,180,2000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,100,160,1000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,150,95,1000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,200,75,1000,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,250,70,900,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,350,67,600,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-100-M7-M-R,100,normal,500,67,500,JG-MCYF-SM-0039 / V00 2022 Table 5,
+E-M7,YDFLP-E-200-M7-M-R,200,normal,2,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,4,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,6,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,9,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,13,2600,3000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,20,1700,3000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,30,1100,3000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,45,950,2000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,60,650,2000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,80,550,2000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,100,480,1000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,150,300,1000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,200,240,1000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,250,210,900,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,350,150,600,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,normal,500,130,500,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >45/>70/>100 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,2,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,4,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,6,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,9,4000,4000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,13,2900,3000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,20,1900,3000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,30,1200,3000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,45,1100,2000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,60,720,2000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,80,610,2000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,100,530,1000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,150,330,1000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,200,270,1000,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,250,230,900,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,350,170,600,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E-M7,YDFLP-E-200-M7-M-R,200,performance,500,150,500,JG-MCYF-SM-0039 v1.0 Table 5,2/4/6 ns: manual lists only >50/>80/>120 W at 4000 kHz
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,2,1950,4000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,4,1350,4000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,6,975,4000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,9,600,4000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,13,412,3000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,20,252,3000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,30,187,3000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,45,150,2000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,60,135,2000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,80,112,2000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,100,105,1000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,150,57,1000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,200,48,1000,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,250,46,900,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,350,40,600,E2-60 Table 4,
+E2-M7,YDFLP-E2-60-M7-M-R,60,normal,500,30,500,E2-60 Table 4,
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,2,2960,4000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,4,2160,4000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,6,1400,4000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,9,960,4000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,13,680,3000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,20,420,3000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,30,300,3000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,45,250,2000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,60,200,2000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,80,180,2000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,100,160,1000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,150,95,1000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,200,75,1000,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,250,70,900,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,350,67,600,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-100-M7-M-R,100,normal,500,67,500,E2-100 Table 5 (Normal mode),
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,2,4000,4000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,4,4000,4000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,6,4000,4000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,9,3000,4000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,13,2100,3000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,20,1600,3000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,30,1100,3000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,45,700,2000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,60,550,2000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,80,450,2000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,100,350,1000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,150,300,1000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,200,240,1000,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,250,210,900,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,350,150,600,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+E2-M7,YDFLP-E2-200-M7-M-R,200,normal,500,130,500,v2.2 Table 5,2/4/6 ns: manual lists only >35/>55/>90 W at 4000 kHz
+M7-L1,YDFLP-200-M7-L1-X,200,normal,8,3000,4000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,12,2000,4000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,20,1200,3000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,30,900,3000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,40,700,3000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,50,600,2000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,60,550,2000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,80,450,2000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,100,350,2000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,150,200,1000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,200,150,1000,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,250,130,900,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,350,130,600,Version B 2018-09 Table 5,
+M7-L1,YDFLP-200-M7-L1-X,200,normal,500,130,500,Version B 2018-09 Table 5,
+M8,YDFLP-20-M8-S-R,20,normal,2,240,4000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,4,160,4000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,6,120,4000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,9,85,4000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,13,65,3000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,20,50,3000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,30,46,3000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,45,42,2000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,60,38,2000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,80,36,2000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,100,34,1000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,150,24,1000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,200,20,1000,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,250,18,900,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,350,18,600,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-20-M8-S-R,20,normal,500,18,500,V01 2021 Table 4,setting 1 = CW
+M8,YDFLP-50-M8-M-R,50,normal,1,1500,4000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,2,900,4000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,4,560,4000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,6,400,4000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,9,300,4000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,13,210,3000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,20,150,3000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,30,110,3000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,45,90,2000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,60,80,2000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,80,70,2000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,100,65,1000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,150,24,1000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,200,20,1000,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,250,17,900,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-50-M8-M-R,50,normal,350,12,600,V01 Table 5 (machine-translated),setting 500 = CW; 250/350 ns need 10-35 C ambient
+M8,YDFLP-100-M8-M-R,100,normal,6,280,4000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,8,220,4000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,12,170,3000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,20,130,3000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,30,110,3000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,40,105,2000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,50,100,2000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,60,95,2000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,80,90,2000,V01 2021-06-23 Table 4,
+M8,YDFLP-100-M8-M-R,100,normal,100,85,1000,V01 2021-06-23 Table 4,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,6,210,4000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,9,160,4000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,12,125,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,14,120,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,16,115,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,20,110,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,30,90,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,45,80,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,60,150,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,80,150,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,100,150,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,150,150,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-120-M8-S-W-V2,120,normal,200,150,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,6,360,4000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,9,280,4000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,12,210,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,14,200,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,16,195,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,20,180,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,30,170,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,45,165,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,60,250,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,80,250,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,100,250,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,150,250,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-200-M8-S-W-V2,200,normal,200,250,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,6,540,4000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,9,420,4000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,12,345,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,14,315,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,16,295,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,20,270,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,30,255,3000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,45,250,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,60,375,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,80,375,2000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,100,375,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,150,375,1000,S-W-V2 Version 01 Table 5,
+M8-V2,YDFLP-300-M8-S-W-V2,300,normal,200,375,1000,S-W-V2 Version 01 Table 5,
+LP,YDFLP-E-20-LP-S,20,normal,200,25,600,Version 02 Tables 4-5,fixed 200 ns pulse
+LP,YDFLP-E-30-LP-S,30,normal,200,37,600,Version 02 Tables 4-5,fixed 200 ns pulse
+LP,YDFLP-E-50-LP-L,50,normal,200,40,600,Version 02 Tables 4-5,fixed 200 ns pulse

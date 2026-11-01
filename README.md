@@ -18,6 +18,9 @@ continue!
 - **[Gantry coupon](coupon_gantry_grayscale.png):** For variable-power
   grayscale engraving, with power steps, a ramp, and edge-response bars.
   Intended for CO₂, diode, and 1064 nm gantry lasers.
+- **[JPT MOPA cut-off tables](jpt-mopa-cutoff/):** Pulse width, cut-off
+  frequency and max frequency for JPT M7, E-M7, E2-M7, M8 and LP sources, per
+  model, as a README and a [CSV](jpt-mopa-cutoff/jpt-mopa-cutoff.csv).
 - **Measurement logs:** Use the [galvo log](log_galvo.csv) or
   [gantry log](log_gantry.csv) to record your material, settings, and measured
   depths. Because "that one setting worked great" is much more useful when you
