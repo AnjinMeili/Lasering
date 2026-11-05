@@ -1,0 +1,55 @@
+name: Titanium data
+ description: A new titanium data point — source, machine, settings, measured result
+ title: "[Data] "
+ labels: ["unverified"]
+ body:
+  - type: markdown
+    attributes:
+      value: "All submissions are user-submitted and **unverified until reviewed**. Nothing here goes into the protocol automatically — it is security-checked and labelled first. Do not include credentials, passwords, API keys or personal data. Do not attach executables."
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where this data came from — journal, manual, forum/group, Discord member discussion, or your own test.
+    validations:
+      required: true
+  - type: input
+    id: material
+    attributes:
+      label: Material
+      description: e.g. CP titanium Grade 2, Ti-6Al-4V, thickness and finish.
+    validations:
+      required: true
+  - type: input
+    id: machine
+    attributes:
+      label: Machine / source model
+      description: Give the whole model code, e.g. YDFLP-E2-100-M7-M-R, not just the wattage. JPT tables are JPT only.
+    validations:
+      required: true
+  - type: input
+    id: lens
+    attributes:
+      label: Lens
+      description: e.g. F160, F254 — focal length and field if known.
+  - type: textarea
+    id: settings
+    attributes:
+      label: Settings
+      description: Pulse width, frequency, power %, speed, hatch / line spacing, passes, angle increment, cleaning, Z step, dwell.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Measured result
+      description: Depth / depth per pass, removal rate, roughness, warp, colour — measured numbers and how you measured them.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand this is user-submitted and unverified until reviewed, and I have not included credentials or personal data.
+          required: true
