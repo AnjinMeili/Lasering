@@ -1,0 +1,55 @@
+name: Protocol feedback
+ description: A correction or test result for the titanium MOPA protocol
+ title: "[Protocol] "
+ labels: ["unverified"]
+ body:
+  - type: markdown
+    attributes:
+      value: "All submissions are user-submitted and **unverified until reviewed**. Nothing here goes into the protocol automatically — it is security-checked and labelled first. Do not include credentials, passwords, API keys or personal data. Do not attach executables."
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong, or what did you test?
+      description: Correction, or the test you ran (e.g. T1–T8 on the protocol page).
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Journal, manual, forum/group name, or your own test. For tribal material, group + forum is enough unless a quality link exists.
+    validations:
+      required: true
+  - type: input
+    id: machine
+    attributes:
+      label: Machine / source model
+      description: e.g. 100 W JPT M7 YDFLP-E2-100-M7-M-R, or 50 W fibre — give the whole model code, not just the wattage.
+    validations:
+      required: true
+  - type: input
+    id: lens
+    attributes:
+      label: Lens
+      description: e.g. F160, F254 — focal length and field if known.
+  - type: textarea
+    id: settings
+    attributes:
+      label: Settings
+      description: Pulse width, frequency, power %, speed, hatch / line spacing, passes, angle increment, cleaning, Z step, dwell.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Measured result
+      description: Depth / depth per pass, roughness, warp, colour, time — measured numbers, not a guess. Say how you measured it.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand this is user-submitted and unverified until reviewed, and I have not included credentials or personal data.
+          required: true
