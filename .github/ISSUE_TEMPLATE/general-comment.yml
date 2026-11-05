@@ -1,0 +1,45 @@
+name: Question / general comment
+ description: A question or general comment about the titanium protocol or the lab work
+ title: "[Comment] "
+ labels: ["unverified"]
+ body:
+  - type: markdown
+    attributes:
+      value: "All submissions are user-submitted and **unverified until reviewed**. Nothing here goes into the protocol automatically — it is security-checked and labelled first. Do not include credentials, passwords, API keys or personal data. Do not attach executables."
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment / question
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (if any)
+      description: Journal, manual, forum/group, Discord discussion, or your own test — optional here.
+  - type: input
+    id: machine
+    attributes:
+      label: Machine / source model (if relevant)
+      description: Give the whole model code if you know it, not just the wattage.
+  - type: input
+    id: lens
+    attributes:
+      label: Lens (if relevant)
+  - type: textarea
+    id: settings
+    attributes:
+      label: Settings (if relevant)
+      description: Pulse width, frequency, power %, speed, hatch, passes.
+  - type: textarea
+    id: result
+    attributes:
+      label: Measured result (if any)
+      description: Measured numbers and how you measured them, if you have any.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand this is user-submitted and unverified until reviewed, and I have not included credentials or personal data.
+          required: true
