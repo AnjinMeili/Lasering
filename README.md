@@ -8,6 +8,12 @@ The collection starts with a couple of calibration coupons for LightBurn
 relief work. More discoveries can find their way here as the experiments
 continue!
 
+## Feedback / comments
+
+Comments on the titanium MOPA protocol go via [GitHub Issues](https://github.com/AnjinMeili/Lasering/issues/new/choose) — pick a template (protocol feedback, titanium data, or a general question). Everything is security-checked and labelled (`unverified` / `plausible` / `verified` / `tribal-anecdotal` / `needs-test` / `security-review`) before it touches the protocol, and nothing appears on the protocol page until it has been reviewed. See [docs/titanium-protocol-comments.md](docs/titanium-protocol-comments.md).
+
+The public protocol page (alpha, not a validated recipe): [Titanium MOPA Deep-Engraving Protocol](https://muse.ai/s/titanium-mopa-deep-engraving-protocol-oxh6yxwtpn714/ezs7cy2fiGCRXlLrD6V_QAO0MurEBLCtcnKo8S3Kk5A)
+
 ## On the workbench
 
 - **[Calibration coupon generator](calib_coupons.py):** Make custom test
